@@ -1,0 +1,17 @@
+!!! SEUS ARQUIVOS FORAM CRIPTOGRAFADOS !!!
+
+Todos os seus documentos, fotos e arquivos importantes foram criptografados
+usando o algoritmo AES-256.
+
+Para recuperar seus arquivos, você deve seguir as instruções.
+Esta é uma simulação educacional. Em um ataque real, as instruções
+seriam o pagamento de um resgate em criptomoedas.
+
+CHAVE DE DESCRIPTOGRAFIA (SIMULADA):
+1fx0LZGcpy7Rooilv60drkbR7uvENXk2RkDk4DfWT2Y=
+
+INSTRUÇÕES (SIMULADAS):
+1. Execute o script com a opção 'descriptografar'.
+2. Mantenha o arquivo 'chave.key' no mesmo diretório.
+
+ESTE PROJETO É PARA FINS EDUCACIONAIS E DEVE SER USADO APENAS EM AMBIENTES CONTROLADOS.
